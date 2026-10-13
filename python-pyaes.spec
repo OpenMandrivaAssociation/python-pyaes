@@ -2,7 +2,7 @@
 
 Name:		python-%{srcname}
 Version:	1.6.1
-Release:	3
+Release:	4
 Summary:	Pure-Python implementation of AES block-cipher and common modes of operation
 License:	MIT
 URL:		https://github.com/ricmoo/%{srcname}
